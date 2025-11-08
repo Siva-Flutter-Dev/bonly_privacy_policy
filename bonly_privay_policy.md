@@ -91,7 +91,3 @@ If you have any questions about privacy or data handling while using the Applica
 📧 Email: siva.flutter.dev@gmail.com
 
 👤 Service Provider: SivaCrafft
-
-📧 Email: siva.flutter.dev@gmail.com
-
-👤 Service Provider: SivaCrafft
